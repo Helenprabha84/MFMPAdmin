@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-24T22:15:20 IST" name="Suite" finished-at="2026-01-24T22:15:33 IST" duration-ms="12563">
+    <groups>
+    </groups>
+    <test started-at="2026-01-24T22:15:20 IST" name="Test" finished-at="2026-01-24T22:15:33 IST" duration-ms="12563">
+      <class name="MFMP.MFMPTimeSlot">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MFMP.MFMPTimeSlot@16ec5519]" started-at="2026-01-24T22:15:21 IST" name="setUp" finished-at="2026-01-24T22:15:28 IST" duration-ms="7862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="StatedropDown()[pri:1, instance:MFMP.MFMPTimeSlot@16ec5519]" started-at="2026-01-24T22:15:28 IST" name="StatedropDown" finished-at="2026-01-24T22:15:33 IST" duration-ms="4608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StatedropDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MFMP.MFMPTimeSlot@16ec5519]" started-at="2026-01-24T22:15:33 IST" name="tearDown" finished-at="2026-01-24T22:15:33 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MFMP.MFMPTimeSlot -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
