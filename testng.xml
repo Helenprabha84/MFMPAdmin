@@ -5,6 +5,7 @@
     <classes>
       <class name="MFMP.MFMPTimeSlot"/>
       <class name="Base.BaseTest"/>
+      <class name="MFMPTimeslotTestcase"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
