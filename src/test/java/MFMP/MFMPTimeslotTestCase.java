@@ -10,9 +10,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import Base.BaseTest;
 
 
-public class MFMPTimeslotTestCase {
+
+public class MFMPTimeslotTestCase extends BaseTest {
 
 WebDriver driver;
 @BeforeTest

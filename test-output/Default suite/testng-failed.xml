@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="MFMP.MFMPTimeSlot">
+      <class name="MFMP.MFMPBannerTestCase">
         <methods>
-          <include name="tearDown"/>
-          <include name="StatedropDown"/>
-          <include name="setUp"/>
+          <include name="Choosebannerimage"/>
+          <include name="Login"/>
         </methods>
-      </class> <!-- MFMP.MFMPTimeSlot -->
+      </class> <!-- MFMP.MFMPBannerTestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
