@@ -110,7 +110,7 @@ public class MFMPBannerTestCase extends Base.BaseTest {
 	    	 
 	 		driver.navigate().refresh();
 	    	 
-	    	  driver.findElement(By.xpath("//input[@placeholder='Search by Banner ID or URL']")).sendKeys("Banername");
+	    	  driver.findElement(By.xpath("//input[@placeholder='Search by Banner ID or URL']")).sendKeys("IMG_2964");
 	     	   
 	     }
 	    	 
